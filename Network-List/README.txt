@@ -1,7 +1,4 @@
-Name: Danielle Nkem Ebende
-Student #: 101218592
-Course: COMP 2404 - Fall
-Assignment: #3
+Name: Danielle Nkem
 
 List of Files Provided: 
     Cellphone.cc & Cellphone.h
@@ -31,6 +28,3 @@ Compilation and Execution Instructions:
     type "./a2test" to use the given inputs to test. There you can test any of the features by entering a number, 1 through 7 for "./a2",
     and 1 through 9 for "./a2test" and exit via entering 0.
     EXTRA: To clear your .o files to late compile freshly, enter "make clean".
-
-TO CHECK:
-    - check mem leaks
